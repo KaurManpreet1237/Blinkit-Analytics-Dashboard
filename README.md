@@ -48,7 +48,7 @@ This project focuses on analyzing sales and operational data from **Blinkit** â€
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blinkit-data-analysis.git
+   https://github.com/KaurManpreet1237/Blinkit-Analytics-Dashboard.git
    ```
 2. Open the `.ipynb` file in **Jupyter Lab** or **VS Code**.
 3. Open the `.pbix` file using **Power BI Desktop**.
