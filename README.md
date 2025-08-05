@@ -40,7 +40,7 @@ This project focuses on analyzing sales and operational data from **Blinkit** �
 
 ## 🖼️ Sample Visuals
 
-🔗 [Dashboard]() 
+🔗 [Dashboard](https://github.com/KaurManpreet1237/Blinkit-Analytics-Dashboard/blob/b5c2eb9a0c7126c53bf3d82eb94207c483992f46/blinkit-dashboard.png) 
 
 ---
 
